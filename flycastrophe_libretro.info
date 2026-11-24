@@ -1,0 +1,7 @@
+display_name = "Sega - Dreamcast/NAOMI (Flycastrophe)"
+corename = "Flycastrophe"
+supported_extensions = "chd|cdi|gdi|cue|m3u|zip|7z"
+manufacturer = "Sega"
+systemname = "Dreamcast"
+systemid = "dreamcast"
+license = "GPLv2"
